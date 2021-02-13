@@ -13,7 +13,8 @@ The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
 
-<img src = ./Screenshot 2021-02-13 215551.png>                       <img src = ./Screenshot 2021-02-13 215648.png>
+<img src = "./Screenshot 2021-02-13 215551.png">                       <img src = "./Screenshot 2021-02-13 215648.png">
+
 
 
 
